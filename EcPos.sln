@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EcPosClient_Windows", "EcPosClient_Windows\EcPosClient_Windows.vcxproj", "{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EcPosServer", "EcPosServer\EcPosServer.vcxproj", "{313F1820-398E-4B89-A736-AF51075E204B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Debug|Win32.Build.0 = Debug|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Debug|x64.ActiveCfg = Debug|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Release|Win32.ActiveCfg = Release|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Release|Win32.Build.0 = Release|Win32
+		{ECF70ED6-1510-4AC0-8FE5-DF74468DDA58}.Release|x64.ActiveCfg = Release|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Debug|Win32.Build.0 = Debug|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Debug|x64.ActiveCfg = Debug|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Release|Win32.ActiveCfg = Release|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Release|Win32.Build.0 = Release|Win32
+		{313F1820-398E-4B89-A736-AF51075E204B}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
